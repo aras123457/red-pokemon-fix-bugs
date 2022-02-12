@@ -89,57 +89,57 @@
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-13,
 				-35
 			],
-			"anim": "singDOWN",
+			"indices": [],
 			"fps": 24,
-			"name": "BF ABAJO0",
-			"indices": []
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF DOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-4,
-				26
+				21
 			],
-			"anim": "singUP",
+			"indices": [],
 			"fps": 24,
-			"name": "BF ARRIBA0",
-			"indices": []
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF UP"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-17,
 				1
 			],
-			"anim": "singLEFT",
+			"indices": [],
 			"fps": 24,
-			"name": "bf derecha",
-			"indices": []
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bf left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				16,
+				14,
 				-2
 			],
-			"anim": "singRIGHT",
+			"indices": [],
 			"fps": 24,
-			"name": "bf izquierda",
-			"indices": []
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF RIGHT"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf_assets",
+	"image": "characters/pixelbf",
 	"position": [
 		-850,
 		300
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-pixel",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
@@ -147,8 +147,8 @@
 		209
 	],
 	"camera_position": [
-		-350,
-		-160
+		-260,
+		-80
 	],
 	"sing_duration": 4,
 	"scale": 1

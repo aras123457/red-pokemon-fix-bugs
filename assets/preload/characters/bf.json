@@ -8,7 +8,7 @@
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
+			"name": "leftmiss",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
+			"name": "downmiss",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "BF NOTE UP MISS",
+			"name": "upmiss",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
+			"name": "rightmiss",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "firstDeath",
 			"fps": 24,
-			"name": "BF dies",
+			"name": "Gold Dies",
 			"indices": []
 		},
 		{
@@ -63,7 +63,7 @@
 			],
 			"anim": "deathLoop",
 			"fps": 24,
-			"name": "BF Dead Loop",
+			"name": "Gold Dies Loop",
 			"indices": []
 		},
 		{
@@ -74,7 +74,7 @@
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "BF Dead confirm",
+			"name": "Gold Confirms",
 			"indices": []
 		},
 		{
@@ -85,7 +85,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "bf idle",
+			"name": "gold idle",
 			"indices": []
 		},
 		{
@@ -96,7 +96,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF ABAJO0",
+			"name": "gold down",
 			"indices": []
 		},
 		{
@@ -107,7 +107,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BF ARRIBA0",
+			"name": "gold up",
 			"indices": []
 		},
 		{
@@ -118,7 +118,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "bf derecha",
+			"name": "gold left",
 			"indices": []
 		},
 		{
@@ -129,27 +129,27 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "bf izquierda",
+			"name": "gold right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf_assets",
+	"image": "characters/gold_assets",
 	"position": [
 		-850,
 		300
 	],
-	"healthicon": "bf",
+	"healthicon": "gold",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		249,
+		223,
+		68
 	],
 	"camera_position": [
 		-350,
 		-160
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.1
 }

@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gold_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gold Confirms0000" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0001" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0002" x="729" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0003" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0004" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0005" x="2167" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0006" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0007" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0008" x="729" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0009" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0010" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0011" x="2167" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0012" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0013" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0014" x="729" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0015" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0016" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0017" x="729" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0018" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0019" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0020" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0021" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0022" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0023" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0024" x="1448" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0025" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0026" x="10" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0027" x="2886" y="10" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0028" x="10" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0029" x="10" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0030" x="729" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0031" x="1448" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0032" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0033" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0034" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0035" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0036" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0037" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0038" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0039" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0040" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0041" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0042" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0043" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Confirms0044" x="2167" y="248" width="709" height="228"/>
+	<SubTexture name="Gold Dies0000" x="2886" y="248" width="754" height="242"/>
+	<SubTexture name="Gold Dies0001" x="2886" y="248" width="754" height="242"/>
+	<SubTexture name="Gold Dies0002" x="2886" y="248" width="754" height="242"/>
+	<SubTexture name="Gold Dies0003" x="10" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies0004" x="774" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies0005" x="774" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies0006" x="1538" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies0007" x="2302" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies0008" x="3066" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies0009" x="10" y="752" width="754" height="242"/>
+	<SubTexture name="Gold Dies0010" x="10" y="752" width="754" height="242"/>
+	<SubTexture name="Gold Dies0011" x="3066" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies0012" x="3066" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies0013" x="3066" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies0014" x="10" y="752" width="754" height="242"/>
+	<SubTexture name="Gold Dies0015" x="10" y="752" width="754" height="242"/>
+	<SubTexture name="Gold Dies0016" x="3066" y="500" width="754" height="242"/>
+	<SubTexture name="Gold Dies Loop0000" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0001" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0002" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0003" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0004" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0005" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0006" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0007" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0008" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0009" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0010" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0011" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0012" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0013" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0014" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0015" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0016" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0017" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0018" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0019" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0020" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0021" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0022" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0023" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0024" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0025" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0026" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0027" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0028" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0029" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0030" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0031" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0032" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0033" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0034" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0035" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0036" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0037" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0038" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0039" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0040" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0041" x="774" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0042" x="1428" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0043" x="2082" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0044" x="2082" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0045" x="2736" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0046" x="2736" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0047" x="2082" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0048" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0049" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0050" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0051" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0052" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0053" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0054" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0055" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0056" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0057" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0058" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0059" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0060" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0061" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0062" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0063" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0064" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0065" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0066" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0067" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0068" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0069" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0070" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0071" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0072" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0073" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0074" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0075" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0076" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0077" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0078" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0079" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0080" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0081" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0082" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0083" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0084" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0085" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0086" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0087" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0088" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0089" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0090" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0091" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0092" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0093" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0094" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0095" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0096" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0097" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0098" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0099" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0100" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0101" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0102" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0103" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0104" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0105" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0106" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0107" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0108" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0109" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0110" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0111" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0112" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0113" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0114" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0115" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0116" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0117" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0118" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0119" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0120" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0121" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0122" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0123" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0124" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0125" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0126" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0127" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0128" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0129" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0130" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0131" x="10" y="1004" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0132" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="Gold Dies Loop0133" x="3390" y="752" width="644" height="207"/>
+	<SubTexture name="downmiss0000" x="664" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0001" x="664" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0002" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0003" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0004" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0005" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0006" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0007" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0008" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0009" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0010" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0011" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0012" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0013" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="downmiss0014" x="1113" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0000" x="1562" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0001" x="1562" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0002" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0003" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0004" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0005" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0006" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0007" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0008" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0009" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0010" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0011" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0012" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0013" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold down0014" x="2011" y="1004" width="439" height="547"/>
+	<SubTexture name="gold idle0000" x="2460" y="1004" width="457" height="504"/>
+	<SubTexture name="gold idle0001" x="2460" y="1004" width="457" height="504"/>
+	<SubTexture name="gold idle0002" x="2927" y="1004" width="457" height="504"/>
+	<SubTexture name="gold idle0003" x="2927" y="1004" width="457" height="504"/>
+	<SubTexture name="gold idle0004" x="3394" y="1004" width="457" height="504"/>
+	<SubTexture name="gold idle0005" x="3394" y="1004" width="457" height="504"/>
+	<SubTexture name="gold idle0006" x="10" y="1561" width="457" height="504"/>
+	<SubTexture name="gold idle0007" x="10" y="1561" width="457" height="504"/>
+	<SubTexture name="gold idle0008" x="477" y="1561" width="457" height="504"/>
+	<SubTexture name="gold idle0009" x="477" y="1561" width="457" height="504"/>
+	<SubTexture name="gold idle0010" x="477" y="1561" width="457" height="504"/>
+	<SubTexture name="gold idle0011" x="477" y="1561" width="457" height="504"/>
+	<SubTexture name="gold idle0012" x="477" y="1561" width="457" height="504"/>
+	<SubTexture name="gold idle0013" x="477" y="1561" width="457" height="504"/>
+	<SubTexture name="gold left0000" x="944" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0001" x="944" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0002" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0003" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0004" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0005" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0006" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0007" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0008" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0009" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0010" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0011" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0012" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0013" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold left0014" x="1410" y="1561" width="456" height="502"/>
+	<SubTexture name="gold right0000" x="1876" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0001" x="1876" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0002" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0003" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0004" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0005" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0006" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0007" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0008" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0009" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0010" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0011" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0012" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0013" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold right0014" x="2294" y="1561" width="408" height="494"/>
+	<SubTexture name="gold up0000" x="2712" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0001" x="2712" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0002" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0003" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0004" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0005" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0006" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0007" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0008" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0009" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0010" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0011" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0012" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0013" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="gold up0014" x="3080" y="1561" width="358" height="509"/>
+	<SubTexture name="leftmiss0000" x="3448" y="1561" width="456" height="502"/>
+	<SubTexture name="leftmiss0001" x="3448" y="1561" width="456" height="502"/>
+	<SubTexture name="leftmiss0002" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0003" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0004" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0005" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0006" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0007" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0008" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0009" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0010" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0011" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0012" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0013" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="leftmiss0014" x="10" y="2080" width="456" height="502"/>
+	<SubTexture name="rightmiss0000" x="476" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0001" x="476" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0002" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0003" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0004" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0005" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0006" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0007" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0008" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0009" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0010" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0011" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0012" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0013" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="rightmiss0014" x="894" y="2080" width="408" height="494"/>
+	<SubTexture name="upmiss0000" x="1312" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0001" x="1312" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0002" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0003" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0004" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0005" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0006" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0007" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0008" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0009" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0010" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0011" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0012" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0013" x="1680" y="2080" width="358" height="509"/>
+	<SubTexture name="upmiss0014" x="1680" y="2080" width="358" height="509"/>
+</TextureAtlas>
